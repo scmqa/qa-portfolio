@@ -23,3 +23,6 @@ Teste funcional do carrinho de compras da Amazon Brasil, com validação de oper
 
 ### Projeto_Login_Amazon
 Teste funcional da autenticação de usuários no site Amazon Brasil, cobrindo cenários positivos e negativos, validação de entradas e comportamento do sistema.
+
+### Projeto_Busca_Shopee
+Teste funcional da funcionalidade de busca no site da Shopee, com validação de cenários como buscas válidas, sem resultado, erros de digitação e navegação para página de produto.
