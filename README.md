@@ -26,3 +26,6 @@ Teste funcional da autenticação de usuários no site Amazon Brasil, cobrindo c
 
 ### Projeto_Busca_Shopee
 Teste funcional da funcionalidade de busca no site da Shopee, com validação de cenários como buscas válidas, sem resultado, erros de digitação e navegação para página de produto.
+
+### QA Manual Test Project
+Teste manual realizado em uma plataforma web real, com foco na identificação de bugs, validação de funcionalidades e análise do comportamento do sistema.
