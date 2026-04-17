@@ -1,14 +1,14 @@
-Form Functional Test — Cypress Automation
+# Form Functional Test — Cypress Automation
 
 ---
 
-Objective
+## Objective
 
 Evaluate the functionality of form submission using automated testing, ensuring that the system correctly processes user input and displays the expected result.
 
 ---
 
-Test Scope
+## Test Scope
 
 The test focused on the following functionalities:
 
@@ -18,7 +18,7 @@ The test focused on the following functionalities:
 
 ---
 
-Test Environment
+## Test Environment
 
 - Tested System: Cypress Kitchen Sink
 - Device: Desktop / Notebook
@@ -28,14 +28,14 @@ Test Environment
 
 ---
 
-Test Cases Executed
+## Test Cases Executed
 
 ID| Scenario| Expected Result| Status
 TC-001| Enter valid email and submit form| Success message should be displayed| Passed
 
 ---
 
-Automation Code
+## Automation Code
 
 describe('Form Test', () => {
   it('should fill form and submit', () => {
@@ -50,6 +50,6 @@ describe('Form Test', () => {
 
 ---
 
-Conclusion
+## Conclusion
 
 The automated test confirmed that the form submission functionality is working as expected. The system correctly handles user input and displays the appropriate success message.
