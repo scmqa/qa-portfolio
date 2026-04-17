@@ -1,37 +1,39 @@
-Cypress Form Submission Test
+Form Functional Test — Cypress Automation
 
-Overview
+---
 
-This project demonstrates an automated test using Cypress to validate form submission functionality.
+Objective
 
-The test simulates user interaction by entering data into a form and verifying that the system responds correctly.
+Evaluate the functionality of form submission using automated testing, ensuring that the system correctly processes user input and displays the expected result.
 
-Technologies Used
+---
 
-- Cypress
-- JavaScript
+Test Scope
 
-Test Scenario
+The test focused on the following functionalities:
 
-The test validates whether a user can successfully fill out and submit a form.
+- Email input field interaction
+- Form submission process
+- Validation of success message display
 
-Test Steps
+---
 
-1. Open the test page
-2. Enter a valid email address
-3. Submit the form
+Test Environment
 
-Expected Result
+- Tested System: Cypress Kitchen Sink
+- Device: Desktop / Notebook
+- Operating System: Windows 10
+- Browser: Microsoft Edge
+- Test Type: Automated Functional Test
 
-The system should display a success message confirming the form submission.
+---
 
-Actual Result
+Test Cases Executed
 
-The form was successfully submitted, and the message "Your form has been submitted!" was displayed.
+ID| Scenario| Expected Result| Status
+TC-001| Enter valid email and submit form| Success message should be displayed| Passed
 
-Test Status
-
-Passed
+---
 
 Automation Code
 
@@ -46,6 +48,8 @@ describe('Form Test', () => {
   })
 })
 
+---
+
 Conclusion
 
-The test confirms that the form submission functionality is working as expected.
+The automated test confirmed that the form submission functionality is working as expected. The system correctly handles user input and displays the appropriate success message.
