@@ -1,37 +1,97 @@
 # QA Portfolio — Silmara Costa
-## QA portfolio with manual testing, API validation, and test automation using Cypress, focused on functional analysis, bug identification, and software quality.
 
-### Projects
+*Manual QA | API Testing | Software Testing | Postman | Cypress*
 
-- CT Digital Project
-Manual testing focused on the authentication flow of the Digital Work Card system, including login validation and system behavior analysis.
+QA portfolio focused on manual testing, API validation, bug reporting, test documentation, and test automation using Postman and Cypress.
 
-- Mercado Livre Project
-Exploratory testing of the search and product navigation functionality on the Mercado Livre website.
+---
 
-- FakeStore API Project
-Functional API testing using Postman to validate endpoints, responses, and authentication.
+# Projects
 
-- Amazon Filter Bug Project
-Exploratory testing on the Amazon Brazil website, identifying and documenting bugs in the search filter functionality.
+## API Testing
 
-- Amazon Cart Project
-Functional testing of the Amazon Brazil shopping cart, validating critical operations such as subtotal calculation, quantity updates, and item persistence.
+### API Testing Project – JSONPlaceholder
+Functional API testing using Postman, validating the */users* endpoint through GET, POST, PUT, and DELETE requests with automated assertions.
 
-- Amazon Login Project
-Functional testing of user authentication on the Amazon Brazil website, covering positive and negative scenarios, input validation, and system behavior.
+### FakeStore API Project
+Functional API testing using Postman to validate products, authentication, and cart endpoints.
 
-- Shopee Search Project
-Functional testing of the search feature on the Shopee website, validating scenarios such as valid searches, no results, typos, and navigation to product pages.
+---
 
-- Website QA Test — Jornal A Folha do Litoral
-Manual QA testing performed on the Jornal A Folha do Litoral website, focusing on bug identification, usability analysis, and user experience improvements.
+## Manual Testing
 
-- QA Test Order System
-Manual testing performed on a real web platform, focusing on bug identification, functionality validation, and system behavior analysis.
+### CT Digital Project
+Manual testing focused on the Digital Work Card authentication flow, including login validation and system behavior analysis.
 
-- Cypress Automation Test — Basic Website Navigation
-Basic automated test using Cypress to validate webpage loading. Includes test script, execution, and result validation.
+### Amazon Login Project
+Functional testing of user authentication, covering positive and negative scenarios, input validation, and system behavior.
 
-- Cypress Form Submission Test
-Automated end-to-end testing using Cypress to validate form input, submission flow, and system response.
+### Amazon Cart Project
+Functional testing of the Amazon shopping cart, validating subtotal calculation, quantity updates, and item persistence.
+
+### Amazon Filter Bug Project
+Exploratory testing on the Amazon website, identifying and documenting bugs in the product filter functionality.
+
+### Mercado Livre Project
+Exploratory testing of the search and product navigation functionality.
+
+### Shopee Search Project
+Functional testing of the search feature, validating positive and negative search scenarios.
+
+### Jornal A Folha do Litoral
+Website testing focused on bug identification, usability analysis, and user experience improvements.
+
+### QA Test Order System
+Manual testing performed on a real web platform, focusing on functional validation, bug identification, and system behavior.
+
+---
+
+## Test Automation
+
+### Cypress Basic Navigation Test
+Automated testing using Cypress to validate page loading and website navigation.
+
+### Cypress Form Submission Test
+End-to-end automation using Cypress to validate form submission and response behavior.
+
+---
+
+# Skills
+
+- Manual Testing
+- Functional Testing
+- API Testing
+- Exploratory Testing
+- Test Automation
+- Bug Reporting
+- Test Documentation
+- Postman
+- Cypress
+- Git
+- GitHub
+
+---
+
+# Repository Structure
+
+text
+qa-portfolio/
+├── API-Testing-Project
+├── Projeto_API_FakeStore
+├── Projeto_Bug_Amazon_Filtros
+├── Projeto_Busca_Shopee
+├── Projeto_CT_Digital
+├── Projeto_Carrinho_Amazon
+├── Projeto_Login_Amazon
+├── Projeto_Mercado_Livre
+├── cypress-form-submission-test
+├── qa-cypress-basic-navigation-test
+├── qa-test-jornal-litoral
+└── qa-test-order-system
+
+
+---
+
+## Contact
+
+*LinkedIn:* https://www.linkedin.com/in/silmara-costa-903347274
