@@ -73,7 +73,6 @@ API-Testing-Project/
 │
 ├── README.md
 ├── API_Testing_Report_JSONPlaceholder.pdf
-├── JSONPlaceholder.postman_collection.json
 └── Evidence/
     ├── GET-users-tests.png
     ├── POST-users-tests.png
