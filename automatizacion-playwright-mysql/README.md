@@ -1,3 +1,6 @@
+(capa-automatizacion-playwright-mysql.png) 
+(reporte-automatizacion-playwright-mysql.png) 
+
 # 🗄️ Portafolio de Automatización E2E y Pruebas de Bases de Datos
 
 Este repositorio contiene un framework profesional de automatización de extremo a extremo (E2E) desarrollado con **Playwright y TypeScript**, integrado directamente con una base de datos **MySQL**. O objetivo principal do projeto é mitigar falhas humanas através da validação automatizada de dados nos bastidores.
