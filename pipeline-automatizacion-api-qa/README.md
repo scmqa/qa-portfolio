@@ -1,3 +1,8 @@
+![Portada del Proyecto](portada-pipeline-api.jpeg)
+
+![Informe del Proyecto](informe-pipeline-api.jpeg)
+
+
 # 🌐 Pipeline de CI/CD para Automatización de Pruebas de API (Postman + GitHub Actions)
 
 Este repositorio contiene una infraestructura completa de Integración Continua (CI) diseñada para validar de forma automatizada y headless el comportamiento, los contratos y la estabilidad de una API REST utilizando **Postman, Newman CLI y GitHub Actions**. 
