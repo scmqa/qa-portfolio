@@ -1,4 +1,4 @@
-# 🌐 Suite de Automatización Multi-Framework E2E y Pruebas de API
+# 🌐 Suite de Automatización Multi-Framework E2E & Pruebas de API
 
 Este repositorio contiene una suite de pruebas automatizadas avanzada y unificada, diseñada para validar flujos de extremo a extremo (E2E) e integraciones de API de backend. El proyecto implementa las herramientas líderes del mercado (**Cypress, Playwright y Postman**) aplicando las mejores prácticas de arquitectura y diseño de software para QA.
 
