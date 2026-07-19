@@ -1,6 +1,3 @@
-![Capa do Projeto](capa-automatizacion-playwright-mysql.jpg)
-
-![Relatório do Projeto](reporte-automatizacion-playwright-mysql.jpg)
 
 # 🗄️ Portafolio de Automatización E2E y Pruebas de Bases de Datos
 
