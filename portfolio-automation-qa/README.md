@@ -1,6 +1,3 @@
-![Portada del Proyecto](portada-portafolio-qa.jpeg)
-
-![Informe del Proyecto](informe-automatizacion-multiframework.jpeg)
 
 
 # 🌐 Multi-Framework E2E & API Testing Suite
