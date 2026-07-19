@@ -1,3 +1,5 @@
+![Project Cover](cover-qa-portfolio.jpeg)
+![Project Report](report-multiframework-automation.jpeg)
 
 
 # 🌐 Multi-Framework E2E & API Testing Suite
