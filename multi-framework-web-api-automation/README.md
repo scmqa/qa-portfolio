@@ -1,4 +1,4 @@
-![Project Cover](cover-automatizacion-multiframework.jpeg)
+![Project Cover](cover-automation-multiframework.jpeg)
 ![Project Report](report-multiframework-automation.jpeg)
 
 
