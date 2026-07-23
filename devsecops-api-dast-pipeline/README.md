@@ -1,3 +1,7 @@
+![Project Cover](project-cover-api-security.jpeg)
+
+![Project Report](project-report-security-devsecops.jpeg)
+
 # 🛡️ Automated API Security & DevSecOps Pipeline
 
 An enterprise-grade, automated **Dynamic Application Security Testing (DAST)** framework integrated with **GitHub Actions** and powered by **OWASP ZAP**. This pipeline is designed to enforce *Shift-Left Security* by automatically scanning REST APIs against critical vulnerabilities, aligning with the **OWASP API Security Top 10** vulnerabilities and web compliance standards.
