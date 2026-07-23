@@ -8,12 +8,6 @@ Un framework de **Pruebas de Seguridad de Aplicaciones Dinámicas (DAST)** de ni
 
 A continuación se presenta la descripción técnica de la configuración del framework, las métricas de integración en la nube y los reportes de auditoría de cumplimiento:
 
-### 🟡 Portada del Servicio
-![Portada del Servicio](assets/capa-amarela.png)
-
-### 🟣 Reporte Técnico Completado (3 Bloques)
-![Framework de Seguridad de APIs](assets/portfolio-ingles.png)
-
 ---
 
 ## 🚀 Características Clave
@@ -63,7 +57,7 @@ on:
 
 ---
 
-## 📊 Entregables & Resultados Técnicos
+## 📊 Entregables & Resultados Técnico
 
 1. **Integración Continua de Seguridad:** Tasa de éxito del 100% en los pipelines de automatización del servidor, garantizando escaneos sin bloqueos en los despliegues.
 2. **Robustecimiento del Servidor:** Protocolos de validación que logran la **Calificación Máxima "A" de Cumplimiento Internacional** en cifrado de transporte web y protección contra secuestro de clics (clickjacking).
