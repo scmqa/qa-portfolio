@@ -1,6 +1,6 @@
-![Project Cover](project-cover-api-security.jpeg)
+![Project Cover](cover-api-security.jpeg)
 
-![Project Report](project-report-security-devsecops.jpeg)
+![Project Report](report-security-devsecops.jpeg)
 
 # 🛡️ Automated API Security & DevSecOps Pipeline
 
