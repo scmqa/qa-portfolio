@@ -2,21 +2,15 @@
   
   # 🏆 QA Portfolio — Silmara Costa
   
-  <!-- Tag configurada para ler o seu arquivo local do PC -->
+  <!-- GIF Principal vindo do seu repositório -->
   <img src="automation.gif" width="600" alt="QA Automation Engineering Gif">
 
   <p align="center">
     <strong>QA Automation Engineer | Manual & Functional Testing | CI/CD Pipelines</strong>
   </p>
 
-   <p align="center">
-    <img src="https://shields.io" alt="Cypress">
-    <img src="https://shields.io" alt="Playwright">
-    <img src="https://shields.io" alt="Postman">
-    <img src="https://shields.io" alt="MySQL">
-    <img src="https://shields.io" alt="GitHub Actions">
-  </p>
-
+  ![Cypress](https://shields.io) ![Playwright](https://shields.io) ![Postman](https://shields.io) ![MySQL](https://shields.io) ![GitHub Actions](https://shields.io)
+</div>
 
 ---
 
@@ -102,5 +96,6 @@ Feel free to fork the projects, open issues with suggestions, or reach out to me
 
 *   **LinkedIn:** https://linkedin.com
 *   **GitHub:** https://github.com
+
 
 
