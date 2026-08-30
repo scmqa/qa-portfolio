@@ -9,14 +9,14 @@
     <strong>QA Automation Engineer | Manual & Functional Testing | CI/CD Pipelines</strong>
   </p>
 
-  <p align="center">
+   <p align="center">
     <img src="https://shields.io" alt="Cypress">
     <img src="https://shields.io" alt="Playwright">
     <img src="https://shields.io" alt="Postman">
     <img src="https://shields.io" alt="MySQL">
     <img src="https://shields.io" alt="GitHub Actions">
   </p>
-</div>
+
 
 ---
 
