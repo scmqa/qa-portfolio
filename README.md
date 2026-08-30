@@ -2,8 +2,8 @@
   
   # 🏆 QA Portfolio — Silmara Costa
   
-  <!-- Main Top GIF -->
-  <img src="https://giphy.com" width="600" alt="QA Automation Engineering Gif">
+  <!-- Tag configurada para ler o seu arquivo local do PC -->
+  <img src="automation.gif" width="600" alt="QA Automation Engineering Gif">
 
   <p align="center">
     <strong>QA Automation Engineer | Manual & Functional Testing | CI/CD Pipelines</strong>
@@ -100,6 +100,7 @@ qa-portfolio/
 
 Feel free to fork the projects, open issues with suggestions, or reach out to me via my professional networks:
 
-*   **LinkedIn:** www.linkedin.com/in/silmara-costa-903347274
-*   **GitHub:** https://github.com/scmqa/qa-portfolio
+*   **LinkedIn:** https://linkedin.com
+*   **GitHub:** https://github.com
+
 
