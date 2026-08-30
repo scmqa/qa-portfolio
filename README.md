@@ -100,6 +100,6 @@ qa-portfolio/
 
 Feel free to fork the projects, open issues with suggestions, or reach out to me via my professional networks:
 
-*   **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/silmara-costa-903347274)
-*   **GitHub:** [@scmqa](https://github.com/scmqa/qa-portfolio)
+*   **LinkedIn:** www.linkedin.com/in/silmara-costa-903347274
+*   **GitHub:** https://github.com/scmqa/qa-portfolio
 
