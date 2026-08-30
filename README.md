@@ -9,10 +9,12 @@
     <strong>QA Automation Engineer | Manual & Functional Testing | CI/CD Pipelines</strong>
   </p>
 
-  ![Cypress](https://shields.io) ![Playwright](https://shields.io) ![Postman](https://shields.io) ![MySQL](https://shields.io) ![GitHub Actions](https://shields.io)
+  ### 🛠️ Core Tech Stack
+  ⚡ **Cypress** • 🧪 **Playwright** • 🎯 **Postman** • 🗄️ **MySQL** • ⚙️ **GitHub Actions**
 </div>
 
 ---
+
 
 ## 🎯 About the Portfolio
 This repository centralizes my entire software quality assurance (QA) journey and evolution. Listed below are all my **21 hands-on projects**, covering everything from complex test automation with CI/CD pipelines to manual exploratory testing in real-world scenarios.
