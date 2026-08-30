@@ -101,5 +101,5 @@ qa-portfolio/
 Feel free to fork the projects, open issues with suggestions, or reach out to me via my professional networks:
 
 *   **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
-*   **GitHub:** [@scmqg](https://github.com)
+*   **GitHub:** [@scmqa](https://github.com/scmqa/qa-portfolio)
 
