@@ -74,7 +74,7 @@ End-to-end automation using Cypress to validate form submission and response beh
 
 # Repository Structure
 
-text
+'''text
 qa-portfolio/
 ├── API-Testing-Project
 ├── Projeto_API_FakeStore
